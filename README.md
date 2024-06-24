@@ -1,14 +1,9 @@
 
 > Open this page at [https://brightbox-education.github.io/weather-station/](https://brightbox-education.github.io/weather-station/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/brightbox-education/weather-station** and import
+## Tutorials
+* [Step by step guide to create Climate Change Weather Station](/weather-station/tutorial)
+* [Guide with all steps to create the weather station](/https://makecode.microbit.org/#tutorial:github:brightbox-education/weather-station/tutorial)
 
 ## Edit this project
 
