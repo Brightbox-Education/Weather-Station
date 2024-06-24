@@ -2,8 +2,8 @@
 > Open this page at [https://brightbox-education.github.io/weather-station/](https://brightbox-education.github.io/weather-station/)
 
 ## Tutorials
-* [Guide with all steps to create the weather station](/weather-station/tutorial)
-* [Step by step guide to create Climate Change Weather Station](https://makecode.microbit.org/#tutorial:github:brightbox-education/weather-station/tutorial)
+* [Guide with all steps to create the weather station on one page](/weather-station/tutorial)
+* [Step by step guide to create Climate Change Weather Station within MakeCode editor](https://makecode.microbit.org/#tutorial:github:brightbox-education/weather-station/tutorial)
 
 ## Edit this project
 
