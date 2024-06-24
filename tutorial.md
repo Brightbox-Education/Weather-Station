@@ -1,6 +1,6 @@
 # Climate Change Weather Station Tutorial
 
-## Measure and track temperature @unplugged
+## Let's create a Climate Change Weather Station @unplugged
 
 In this tutorial, you will learn how to measure temperature with your Micro:bit and track changes over time. Let's get coding!
 
@@ -70,7 +70,9 @@ loops.everyInterval(60000, function () {
 ```
 
 ## Congratulations, you did it! @unplugged
-What else could you track to improve your Climate Change Weather Station? Learn more about Climate Change here.
+What else could you track to improve your Climate Change Weather Station? 
+
+[Have a go at these climate action projects](https://microbit.org/projects/make-it-code-it/?filters=ce03cffd-0234-4060-b0cc-7381a1da1fd1)
 
 
     
