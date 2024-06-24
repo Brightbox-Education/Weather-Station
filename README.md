@@ -3,7 +3,7 @@
 
 ## Tutorials
 * [Guide with all steps to create the weather station](/weather-station/tutorial)
-* [Step by step guide to create Climate Change Weather Station](/https://makecode.microbit.org/#tutorial:github:brightbox-education/weather-station/tutorial)
+* [Step by step guide to create Climate Change Weather Station](https://makecode.microbit.org/#tutorial:github:brightbox-education/weather-station/tutorial)
 
 ## Edit this project
 
